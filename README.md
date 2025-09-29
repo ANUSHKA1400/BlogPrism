@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlogPrism 📝
 
 ### 🚀 An Online Platform for Modern Blogs 
@@ -116,3 +117,6 @@ The backend can be deployed to any Node.js hosting platform (Heroku, DigitalOcea
 ###### Web App link : https://blog-prism.vercel.app/
 
 https://user-images.githubusercontent.com/89868832/165784179-a3d53f8d-e3d9-4109-9717-35c0125f589d.mp4
+=======
+# BlogPrism
+>>>>>>> a324fa3c41231f1da29812a39292441266a3408f
